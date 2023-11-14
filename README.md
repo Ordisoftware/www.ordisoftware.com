@@ -15,4 +15,4 @@ Browsable at [ordisoftware.github.io/www.ordisoftware.com](https://ordisoftware.
 
 EXE and ZIP downloads for software setup and source code are available in their own [repositories](https://github.com/Ordisoftware?tab=repositories)
 
-***Archived on 2023.08.03***
+***Archived on 2023.11.14***
